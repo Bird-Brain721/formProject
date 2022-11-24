@@ -1,0 +1,33 @@
+html, head, body, h1 {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+form {
+    font-family: 'Acme', sans-serif;
+    border: 1px solid black;
+    border-radius: 4px;
+    height: 250px;
+    width: 285px;
+    margin: 150px 520px;
+    text-align: center;
+}
+h1 {
+    margin: 20px 0px;
+}
+.firstName {
+    margin: 10px 0px;
+}
+.lastName {
+    margin: 10px 0px;
+}
+.Email {
+    margin: 10px 0px;
+}
+.submit input {
+    background-color: white;
+    border: 1px solid gray;
+    width: 270px;
+    height: 20px;
+    margin: 20px 0px;
+}
